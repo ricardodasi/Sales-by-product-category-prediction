@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560697258150.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2946826075",
+    "id" : "8C33F19E",
+    "lastKnownWriteTime" : 1560693906,
+    "last_content_update" : 1560693906,
+    "path" : "C:/Users/riqui/Desktop/Ubiqum course/Project 5/Prediction of products by brand/Scripts/Product predictions R file.R",
+    "project_path" : "Product predictions R file.R",
+    "properties" : {
+        "cursorPosition" : "223,31",
+        "scrollLine" : "211",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

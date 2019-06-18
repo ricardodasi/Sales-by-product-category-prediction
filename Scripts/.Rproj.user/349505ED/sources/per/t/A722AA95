@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560343504281.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "0|20|5|0|\n6|25|12|0|\n22|56|26|0|\n28|36|39|0|\n41|15|58|0|\n60|22|88|0|\n",
+    "hash" : "2065655846",
+    "id" : "A722AA95",
+    "lastKnownWriteTime" : 1560709833,
+    "last_content_update" : 1560709833778,
+    "path" : "C:/Users/riqui/Desktop/Ubiqum course/Project 5/Prediction of products by brand/Scripts/Training the SVM alone.R",
+    "project_path" : "Training the SVM alone.R",
+    "properties" : {
+        "cursorPosition" : "141,42",
+        "scrollLine" : "122",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
